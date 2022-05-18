@@ -1,0 +1,55 @@
+/* body {
+  padding: 20px;
+  font-size: 1rem;
+  font-weight: 600;
+} */
+
+li {
+  padding: 10px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 1.2rem;
+  text-align: left;
+}
+
+ol {
+  padding: 20px 20px 10px 20px;
+  margin-left: 45%;
+}
+
+button {
+  padding: 5px;
+  margin: 5px 5px 20px 0px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 2px solid black;
+  background-color: lightgrey;
+  color: black;
+  font-weight: 600;
+}
+button:hover {
+  background-color: blue;
+  color: white;
+}
+
+input {
+  padding: 5px;
+  margin: 5px 5px 20px 0px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 2px solid black;
+  font-weight: 600;
+  outline: none;
+}
+
+th {
+  padding: 7px 7px 7px 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+td button {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}

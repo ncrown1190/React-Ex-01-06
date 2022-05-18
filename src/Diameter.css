@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  /* font-size: 1.5rem; */
+  /* font-weight: 600; */
+}
+.object {
+  background-color: rgb(88, 167, 245);
+  border: 3px solid blue;
+  width: 50px;
+  height: 50px;
+  margin-left: 45%;
+}
+.object.circle {
+  border-radius: 50%;
+  background-color: rgb(88, 167, 245);
+}
+input {
+  display: inline;
+  margin: 20px;
+  margin-right: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+.checkbox {
+  width: 50px;
+  height: 25px;
+  margin: 10px;
+  margin-left: 20px;
+  cursor: pointer;
+}

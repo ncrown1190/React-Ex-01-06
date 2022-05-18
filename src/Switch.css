@@ -1,0 +1,11 @@
+.Switch {
+  border: solid 2px black;
+  width: 100px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+.On {
+  background-color: blue;
+  color: white;
+}
